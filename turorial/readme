@@ -1,0 +1,5 @@
+IMr_BG_boston.ipynb for SMOGN, SMOTER, WERCS + XGB, RF; rebagg-smoter; IMr-GB with k =1, 3, 5, 7, 10, 60; IMr-bay-GB
+Vanilla_model_boston - smogn.ipynb for SMOGN + Vanilla
+Vanilla_model_boston - smoter.ipynb for SMOTER + Vanilla
+Vanilla_model_boston - wercs.ipynb for WERCS + Vanilla
+Vanilla_model_boston.ipynb for Vanilla; INV + Vanilla; Sqrt-Inv + Vanilla; LSD-INV + Vanilla; LSD-Sqrt-Inv + Vanilla; BMC + Vanilla
